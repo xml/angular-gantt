@@ -1,4 +1,4 @@
-# Gantt chart for Angular.js
+# Gantt chart for Angular.js: Fork in xmlilley's account
 A Gantt chart directive for Angular.js without any other dependencies.
 
 ####<a href="http://schweigi.github.io/angular-gantt/index.html" target="_blank">TRY THE DEMO</a>
